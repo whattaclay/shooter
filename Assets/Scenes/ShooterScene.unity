@@ -569,6 +569,11 @@ MonoBehaviour:
   damage: 35
   impactPrefab: {fileID: 100002, guid: 78a590ef1004ac5459dee968bcf39d84, type: 3}
   shootPoint: {fileID: 114556414}
+--- !u!1 &394473352 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 9005220659476430823, guid: 2d3a85ecde41a8246a79669975912b74, type: 3}
+  m_PrefabInstance: {fileID: 60889539378096550}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &542508511
 GameObject:
   m_ObjectHideFlags: 0
@@ -1724,6 +1729,20 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 9005220659476430818, guid: 2d3a85ecde41a8246a79669975912b74, type: 3}
   m_PrefabInstance: {fileID: 60889539378096550}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1227919753
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 394473352}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26dc15643ecec2441890f910fc9852f3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  throwforce: 10
+  grenadePrefab: {fileID: 552458806377097287, guid: bfada6386c9c78c46aecf4392c74d8ca, type: 3}
 --- !u!1 &1271643272
 GameObject:
   m_ObjectHideFlags: 0

@@ -6,7 +6,7 @@ using UnityEngine;
 public class HandGrensde : MonoBehaviour
 {
     
-
+    [SerializeField] private float damage = 90f;
     [SerializeField] private float delay = 3f;
     [SerializeField] private float radius = 5f;
     [SerializeField] private float force = 700f;
@@ -45,6 +45,14 @@ public class HandGrensde : MonoBehaviour
               {
                   rb.AddExplosionForce(force, transform.position, radius);
               }
+
+              var destructible = nearbyObject.GetComponent<HeatpointObjects>();
+              
+              if (destructible != null)
+              {
+                  destructible.ReceiveDamage(damage);
+              }           
+              
         }
         
         Destroy(gameObject);

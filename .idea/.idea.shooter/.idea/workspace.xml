@@ -2,12 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03b8ec76-d0a4-4a16-b7b0-6f6d8ce4e381" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/HandGrensde.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ThrowGrenade.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.shooter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.shooter/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/JMO Assets/WarFX/_Effects (Mobile)/Explosions/WFXMR_Explosion LandMine.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/JMO Assets/WarFX/_Effects (Mobile)/Explosions/WFXMR_Explosion LandMine.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/JMO Assets/WarFX/_Effects (Mobile)/Explosions/WFXMR_Explosion Simple.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/JMO Assets/WarFX/_Effects (Mobile)/Explosions/WFXMR_Explosion Simple.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/JMO Assets/WarFX/_Effects (Mobile)/Explosions/WFXMR_Explosion StarSmoke.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/JMO Assets/WarFX/_Effects (Mobile)/Explosions/WFXMR_Explosion StarSmoke.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/JMO Assets/WarFX/_Effects (Mobile)/MuzzleFlashes/Sprites/WFXMR_MF Spr RIFLE2.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/JMO Assets/WarFX/_Effects (Mobile)/MuzzleFlashes/Sprites/WFXMR_MF Spr RIFLE2.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/JMO Assets/WarFX/_Effects (Mobile)/MuzzleFlashes/Sprites/WFXMR_MF Spr RIFLE3.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/JMO Assets/WarFX/_Effects (Mobile)/MuzzleFlashes/Sprites/WFXMR_MF Spr RIFLE3.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/JMO Assets/WarFX/_Effects (Mobile)/Smoke/WFXMR_SmokeGrenade AlphaBlend Black.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/JMO Assets/WarFX/_Effects (Mobile)/Smoke/WFXMR_SmokeGrenade AlphaBlend Black.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/JMO Assets/WarFX/_Effects (Mobile)/Smoke/WFXMR_SmokeGrenade AlphaBlend Gray.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/JMO Assets/WarFX/_Effects (Mobile)/Smoke/WFXMR_SmokeGrenade AlphaBlend Gray.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/JMO Assets/WarFX/_Effects (Mobile)/Smoke/WFXMR_SmokeGrenade Black.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/JMO Assets/WarFX/_Effects (Mobile)/Smoke/WFXMR_SmokeGrenade Black.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/JMO Assets/WarFX/_Effects (Mobile)/Smoke/WFXMR_SmokeGrenade Gray.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/JMO Assets/WarFX/_Effects (Mobile)/Smoke/WFXMR_SmokeGrenade Gray.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/JMO Assets/WarFX/_Effects/Explosions/WFX_Explosion Simple.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/JMO Assets/WarFX/_Effects/Explosions/WFX_Explosion Simple.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/JMO Assets/WarFX/_Effects/MuzzleFlashes/Sprites/WFX_MF Spr RIFLE3.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/JMO Assets/WarFX/_Effects/MuzzleFlashes/Sprites/WFX_MF Spr RIFLE3.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/BulletImpact.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/BulletImpact.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/HandgGrenade.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/HandgGrenade.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/ShooterScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/ShooterScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/HandGrensde.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/HandGrensde.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/HeatpointObjects.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/HeatpointObjects.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PistolWeaponDamage.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PistolWeaponDamage.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/RifleWeaponDamage.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/RifleWeaponDamage.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ThrowGrenade.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ThrowGrenade.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StarterAssets/Environment/Prefabs/Environment_Prefab.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StarterAssets/Environment/Prefabs/Environment_Prefab.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StarterAssets/Environment/Prefabs/Structure_Prefab.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StarterAssets/Environment/Prefabs/Structure_Prefab.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,6 +107,7 @@
       <updated>1675888992426</updated>
       <workItem from="1675888994142" duration="4775000" />
       <workItem from="1675896051235" duration="4534000" />
+      <workItem from="1675953013853" duration="7375000" />
     </task>
     <servers />
   </component>

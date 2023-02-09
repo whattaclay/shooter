@@ -10,7 +10,7 @@ namespace DefaultNamespace
         [SerializeField] private float damage = 35;
         [SerializeField] private GameObject impactPrefab;
         [SerializeField] private Transform shootPoint;
-
+        
         private void Update()
         {
             if (Input.GetMouseButtonDown(0))
@@ -18,7 +18,7 @@ namespace DefaultNamespace
                 if (Physics.Raycast(shootPoint.position, shootPoint.forward, out var hit))
                 {
                     
-
+                    
                     Instantiate(impactPrefab, hit.point, Quaternion.LookRotation(hit.normal, Vector3.up));
 
                     var destructible = hit.transform.GetComponent<HeatpointObjects>();

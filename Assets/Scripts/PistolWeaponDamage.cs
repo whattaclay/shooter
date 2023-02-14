@@ -13,7 +13,7 @@ namespace DefaultNamespace
         
         private void Update()
         {
-            if (Input.GetMouseButtonDown(1))
+            if (Input.GetMouseButtonDown(0))
             {
                 if (Physics.Raycast(shootPoint.position, shootPoint.forward, out var hit))
                 {

@@ -128,3 +128,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hpCurrent: 100
+  DissapiarePrefab: {fileID: 100008, guid: 2c744add65083d547a03a5584c594412, type: 3}

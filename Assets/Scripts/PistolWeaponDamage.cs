@@ -10,11 +10,14 @@ namespace DefaultNamespace
         [SerializeField] private float damage = 15;
         [SerializeField] private GameObject impactPrefab;
         [SerializeField] private Transform shootPoint;
-        
+        [SerializeField] private GameObject muzzleEffect;
         private void Update()
         {
             if (Input.GetMouseButtonDown(0))
             {
+                var fireEffect = Instantiate(muzzleEffect, shootPoint);
+                Destroy(fireEffect, 0.2f);
+                
                 if (Physics.Raycast(shootPoint.position, shootPoint.forward, out var hit))
                 {
                     

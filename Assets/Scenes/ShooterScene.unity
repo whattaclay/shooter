@@ -7448,6 +7448,7 @@ MonoBehaviour:
   damage: 35
   impactPrefab: {fileID: 100002, guid: 78a590ef1004ac5459dee968bcf39d84, type: 3}
   shootPoint: {fileID: 114556414}
+  muzzleEffect: {fileID: 100000, guid: 29220cae38f3f9e42a1e1f9c284781bc, type: 3}
 --- !u!4 &358758179 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6559362985659250037, guid: c738dcf7671589f4993f1dd765971482, type: 3}
@@ -15857,6 +15858,7 @@ MonoBehaviour:
   damage: 15
   impactPrefab: {fileID: 100002, guid: 78a590ef1004ac5459dee968bcf39d84, type: 3}
   shootPoint: {fileID: 902725650}
+  muzzleEffect: {fileID: 100000, guid: 29220cae38f3f9e42a1e1f9c284781bc, type: 3}
 --- !u!4 &710226210 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5738456080911321149, guid: 3eb2f2c9a2b81144c87b4578c6180548, type: 3}

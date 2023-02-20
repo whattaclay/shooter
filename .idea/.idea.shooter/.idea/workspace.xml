@@ -2,20 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03b8ec76-d0a4-4a16-b7b0-6f6d8ce4e381" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/BackButtonScript.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PlayButton.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/QuitGameScript.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/QuitToMenu.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/WeaponSwitcher.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/WeaponSwitcher.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.shooter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.shooter/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/HandgGrenade.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/HandgGrenade.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Effects/RifleFire.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Effects/RifleFire.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Target.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Target.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/ShooterScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/ShooterScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/HeatpointObjects.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/HeatpointObjects.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/PistolWeaponDamage.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PistolWeaponDamage.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarterAssets/InputSystem/StarterAssetsInputs.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StarterAssets/InputSystem/StarterAssetsInputs.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/RifleWeaponDamage.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/RifleWeaponDamage.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
@@ -119,6 +112,7 @@
       <workItem from="1675953013853" duration="7964000" />
       <workItem from="1676320505277" duration="509000" />
       <workItem from="1676321053815" duration="9789000" />
+      <workItem from="1676934152117" duration="405000" />
     </task>
     <servers />
   </component>
